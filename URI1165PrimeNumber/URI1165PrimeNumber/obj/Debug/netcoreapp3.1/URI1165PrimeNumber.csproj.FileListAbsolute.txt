@@ -1,0 +1,13 @@
+C:\Users\sumiy\OneDrive\Desktop\uri\URI1001\URI1165PrimeNumber\URI1165PrimeNumber\bin\Debug\netcoreapp3.1\URI1165PrimeNumber.exe
+C:\Users\sumiy\OneDrive\Desktop\uri\URI1001\URI1165PrimeNumber\URI1165PrimeNumber\bin\Debug\netcoreapp3.1\URI1165PrimeNumber.deps.json
+C:\Users\sumiy\OneDrive\Desktop\uri\URI1001\URI1165PrimeNumber\URI1165PrimeNumber\bin\Debug\netcoreapp3.1\URI1165PrimeNumber.runtimeconfig.json
+C:\Users\sumiy\OneDrive\Desktop\uri\URI1001\URI1165PrimeNumber\URI1165PrimeNumber\bin\Debug\netcoreapp3.1\URI1165PrimeNumber.runtimeconfig.dev.json
+C:\Users\sumiy\OneDrive\Desktop\uri\URI1001\URI1165PrimeNumber\URI1165PrimeNumber\bin\Debug\netcoreapp3.1\URI1165PrimeNumber.dll
+C:\Users\sumiy\OneDrive\Desktop\uri\URI1001\URI1165PrimeNumber\URI1165PrimeNumber\bin\Debug\netcoreapp3.1\URI1165PrimeNumber.pdb
+C:\Users\sumiy\OneDrive\Desktop\uri\URI1001\URI1165PrimeNumber\URI1165PrimeNumber\obj\Debug\netcoreapp3.1\URI1165PrimeNumber.csprojAssemblyReference.cache
+C:\Users\sumiy\OneDrive\Desktop\uri\URI1001\URI1165PrimeNumber\URI1165PrimeNumber\obj\Debug\netcoreapp3.1\URI1165PrimeNumber.AssemblyInfoInputs.cache
+C:\Users\sumiy\OneDrive\Desktop\uri\URI1001\URI1165PrimeNumber\URI1165PrimeNumber\obj\Debug\netcoreapp3.1\URI1165PrimeNumber.AssemblyInfo.cs
+C:\Users\sumiy\OneDrive\Desktop\uri\URI1001\URI1165PrimeNumber\URI1165PrimeNumber\obj\Debug\netcoreapp3.1\URI1165PrimeNumber.csproj.CoreCompileInputs.cache
+C:\Users\sumiy\OneDrive\Desktop\uri\URI1001\URI1165PrimeNumber\URI1165PrimeNumber\obj\Debug\netcoreapp3.1\URI1165PrimeNumber.dll
+C:\Users\sumiy\OneDrive\Desktop\uri\URI1001\URI1165PrimeNumber\URI1165PrimeNumber\obj\Debug\netcoreapp3.1\URI1165PrimeNumber.pdb
+C:\Users\sumiy\OneDrive\Desktop\uri\URI1001\URI1165PrimeNumber\URI1165PrimeNumber\obj\Debug\netcoreapp3.1\URI1165PrimeNumber.genruntimeconfig.cache
